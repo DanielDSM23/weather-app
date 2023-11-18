@@ -37,7 +37,7 @@ L'Application Météo est une application web qui permet aux utilisateurs de rec
 - Données météorologiques et de géocodages fournies par [Open Meteo](https://open-meteo.com/)
 - Icônes de drapeaux fournies par [Flags API](https://flagsapi.com/)
 
-## Auteur
+## Auteurs
 
 - [Daniel MONTEIRO (DanielDSM23)](https://github.com/DanielDSM23) ``/script/resultCity.js``, `style.css`, `ìndex.html`
 - [Martin PREVOT](https://github.com/martinprevot) ``/script/displayInfo.js``
